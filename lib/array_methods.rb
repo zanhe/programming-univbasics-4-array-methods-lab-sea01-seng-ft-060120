@@ -15,7 +15,7 @@ def using_first(array)
 end
 
 def using_last(array)
-
+  array.RUBY_RELEASE_DATE
 end
 
 def using_size(array)
